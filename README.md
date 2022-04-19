@@ -14,10 +14,9 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Model 1 seem to be overfitting. There was huge diference between Train and Validation accuracy
+- Model 2 was having less Train accuracy then Model 1 and Validation accuracy was decreased.
+- Model 3 gave the highest accuracy for both Train and Validation dataset.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
