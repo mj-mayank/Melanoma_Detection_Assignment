@@ -8,7 +8,7 @@ Problem statement: To build a CNN based model which can accurately detect melano
 - Data Visualization
 - Model 1 created using basic CNN Architecture
 - Model 2 created after adding Dropout layers
-- Class imbalance handling using data augmentation
+- Class imbalance handling using data augmentation technique
 - Model 3 created on top of Augmented data and also adding batch normalization layer to model
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
