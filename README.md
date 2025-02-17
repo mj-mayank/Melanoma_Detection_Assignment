@@ -1,9 +1,9 @@
 # Melanoma Detection Assignment
-> Problem statement: To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+Problem statement: To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
+## Model Building and Evaluation:
 - Data loading on Google Collab/Drive
 - Data Visualization
 - Model 1 created using basic CNN Architecture
@@ -20,23 +20,10 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@mj_mayank] - feel free to contact me!
 
 
 <!-- Optional -->
